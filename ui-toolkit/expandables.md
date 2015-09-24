@@ -1,8 +1,10 @@
 ---
 layout: page
-title:  Expandables
+title: Expandables
 category: UI toolkit
+published: true
 ---
+
 
 - [Use](#use)
 - [Style](#style)
@@ -11,7 +13,7 @@ category: UI toolkit
 
 <div class="content-50 content-first">
 
-Expandables are used for displaying non-essential information on a page. 
+Expandable sections can be used for displaying non-essential information on a page. They are also helpful for FAQ sections, schedules, and for conserving space on smaller breakpoints by collapsing secondary information. 
 {: class="lead-in"}
 
 </div>
@@ -164,20 +166,3 @@ The header should be addressable by the keyboard to ensure keyboard users can op
 {:/nomarkdown}
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
