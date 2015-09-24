@@ -114,9 +114,44 @@ Add the data-accordion="true" attribute to the expandable group to activate the 
 
 <div class="content-33 content-first">
 
-Standard expandables feature a colored bar, a header, the expand/collapse minicon within a circle and a label (if space allows). Ideally, the entire bar is actionable. The header should clearly indicate what the user will see when the content is expanded. It should not be a call to action.
+#### Single
+Expandable sections include a colored bar, header text, the expand/collapse minicon within a circle with a label reading “Show” or “Hide,” and strokes on the top and bottom to define the expandable area. 
+The entire bar is actionable. The header should clearly indicate what the user will see when the content is expanded (it should not be a call to action). Expand icons stay aligned at the top of the row when the title breaks to multiple lines.
 
 </div>
+
+---
+
+<div class="content-33 content-first">
+#### Multiple
+Expandable sections grouped together (e.g., FAQs) are stacked vertically, with each row sharing its top or bottom stroke with the adjacent row.
+</div>
+
+---
+
+<div class="content-33 content-first">
+
+#### Grey 
+* 5% grey background
+* 15px top and bottom padding 
+* 15px left and right padding
+* 50% grey stroke top and bottom (default) or all around (optional)
+* Avenir paragraph or H4 heading
+* Pacific Blue minicon and label
+
+---
+
+<div class="content-33 content-first">
+
+#### White
+* 50% grey or black stroke top and bottom (default) or all around (optional)
+* 15px top and bottom padding 
+* 15px left and right padding
+* Avenir paragraph or H4 heading
+* Pacific Blue minicon and label
+
+</div>
+
 
 <div class="content-67 content-last">
 
