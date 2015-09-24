@@ -45,7 +45,7 @@ In the default mode, users are able to have multiple sections expanded at the sa
 <div class="expandable expandable__padded">
     <button class="expandable_header expandable_target">
         <span class="expandable_header-left expandable_label">
-            Expandable Header
+            Standard expandable title one
         </span>
         <span class="expandable_header-right expandable_link">
             <span class="expandable_cue-open">
@@ -68,6 +68,34 @@ In the default mode, users are able to have multiple sections expanded at the sa
         </p>
     </div>
 </div>
+
+<div class="expandable expandable__padded">
+    <button class="expandable_header expandable_target">
+        <span class="expandable_header-left expandable_label">
+            Standard expandable title two
+        </span>
+        <span class="expandable_header-right expandable_link">
+            <span class="expandable_cue-open">
+                Show
+                <span class="cf-icon cf-icon-plus-round"></span>
+            </span>
+            <span class="expandable_cue-close">
+                Hide
+                <span class="cf-icon cf-icon-minus-round"></span>
+            </span>
+        </span>
+    </button>
+    <div class="expandable_content">
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing
+            elit. Neque ipsa voluptatibus soluta nobis unde quisquam
+            temporibus magnam debitis quidem. Ducimus ratione
+            corporis nesciunt earum vel est quaerat blanditiis
+            dolore ipsa?
+        </p>
+    </div>
+</div>
+
 {:/nomarkdown}
 
 
