@@ -40,6 +40,7 @@ In the default mode, users are able to have multiple sections expanded at the sa
 
 </div>
 
+<div class="content-67 content-last">
 
 {::nomarkdown}  
 <div class="expandable expandable__padded">
@@ -97,6 +98,8 @@ In the default mode, users are able to have multiple sections expanded at the sa
 </div>
 
 {:/nomarkdown}
+
+<div class="content-67 content-last">
 
 
 <div class="content-33 content-first">
