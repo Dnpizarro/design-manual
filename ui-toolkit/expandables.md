@@ -330,7 +330,7 @@ The default collapsed state should include the expand/collapse minicon within a 
 <div class="expandable expandable__padded">
     <button class="expandable_header expandable_target">
         <span class="expandable_header-left expandable_label">
-            Expandable Header
+            Expandable title
         </span>
         <span class="expandable_header-right expandable_link">
             <span class="expandable_cue-open">
@@ -374,7 +374,7 @@ The expanded states for both the grey and white versions have an option to inclu
 <div class="expandable expandable__padded expandable__expanded">
     <button class="expandable_header expandable_target">
         <span class="expandable_header-left expandable_label">
-            Expandable Header
+            Expandable title
         </span>
         <span class="expandable_header-right expandable_link">
             <span class="expandable_cue-open">
