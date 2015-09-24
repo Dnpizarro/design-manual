@@ -76,7 +76,9 @@ Add the data-accordion="true" attribute to the expandable group to activate the 
         </p>
     </div>
 </div>
+{:/nomarkdown}
 
+{::nomarkdown}
 <div class="expandable expandable__padded">
     <button class="expandable_header expandable_target">
         <span class="expandable_header-left expandable_label">
@@ -103,7 +105,6 @@ Add the data-accordion="true" attribute to the expandable group to activate the 
         </p>
     </div>
 </div>
-
 {:/nomarkdown}
 
 </div>
