@@ -140,6 +140,8 @@ Expandable sections grouped together (e.g., FAQs) are stacked vertically, with e
 * Avenir paragraph or H4 heading
 * Pacific Blue minicon and label
 
+</div>
+
 ---
 
 <div class="content-33 content-first">
