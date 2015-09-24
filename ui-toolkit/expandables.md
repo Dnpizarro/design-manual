@@ -71,13 +71,11 @@ In the default mode, users are able to have multiple sections expanded at the sa
         </p>
     </div>
 </div>
-{:/nomarkdown}
 
-{::nomarkdown}  
 <div class="expandable expandable__padded">
     <button class="expandable_header expandable_target">
         <span class="expandable_header-left expandable_label">
-            Standard expandable title one
+            Standard expandable title two
         </span>
         <span class="expandable_header-right expandable_link">
             <span class="expandable_cue-open">
@@ -100,13 +98,11 @@ In the default mode, users are able to have multiple sections expanded at the sa
         </p>
     </div>
 </div>
-{:/nomarkdown}
-
-{::nomarkdown}  
+ 
 <div class="expandable expandable__padded">
     <button class="expandable_header expandable_target">
         <span class="expandable_header-left expandable_label">
-            Standard expandable title one
+            Standard expandable title three
         </span>
         <span class="expandable_header-right expandable_link">
             <span class="expandable_cue-open">
