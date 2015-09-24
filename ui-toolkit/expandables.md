@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 - [Use](#use)
 - [Style](#style)
 - [States](#states)
@@ -38,6 +39,44 @@ Expandable sections can be used for displaying non-essential information on a pa
 
 #### Default
 In the default mode, users are able to have multiple sections expanded at the same time, which allows users to easily compare information that is available in different sections.
+
+
+<div class="content-67 content-last">
+
+{::nomarkdown}  
+<div class="expandable expandable__padded">
+    <button class="expandable_header expandable_target">
+        <span class="expandable_header-left expandable_label">
+            Standard expandable title one
+        </span>
+        <span class="expandable_header-right expandable_link">
+            <span class="expandable_cue-open">
+                Show
+                <span class="cf-icon cf-icon-plus-round"></span>
+            </span>
+            <span class="expandable_cue-close">
+                Hide
+                <span class="cf-icon cf-icon-minus-round"></span>
+            </span>
+        </span>
+    </button>
+    <div class="expandable_content">
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing
+            elit. Neque ipsa voluptatibus soluta nobis unde quisquam
+            temporibus magnam debitis quidem. Ducimus ratione
+            corporis nesciunt earum vel est quaerat blanditiis
+            dolore ipsa?
+        </p>
+    </div>
+</div>
+{:/nomarkdown}
+
+</div>
+
+
+
+---
 
 #### Accordion
 With the “accordion” mode, users can only view the contents of one section at a time: when a user expands an additional section, the previously-expanded section will collapse automatically. 
@@ -286,8 +325,3 @@ The <find> function will not discover information hidden by a collapsed expandab
 Non-javascript users should default to the expanded state. Otherwise, the default state (expanded or collapsed) will depend on the circumstance.
 
 Additional content here about roles and tagging
-
-
-
-
-
