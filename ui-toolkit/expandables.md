@@ -324,16 +324,6 @@ The default collapsed state should include the expand/collapse minicon within a 
 
 </div>
 
----
-
-<div class="content-33 content-first">
-
-#### Expanded
-
-The expanded states for both the grey and white versions have an option to include a 1px stroke under the title to help separate from the expanded content. This stroke should abide by the left and right padding if used. 
-
-</div>
-
 <div class="content-67 content-last">
 
 {::nomarkdown}  
@@ -364,6 +354,17 @@ The expanded states for both the grey and white versions have an option to inclu
     </div>
 </div>
 {:/nomarkdown}
+
+</div>
+
+
+---
+
+<div class="content-33 content-first">
+
+#### Expanded
+
+The expanded states for both the grey and white versions have an option to include a 1px stroke under the title to help separate from the expanded content. This stroke should abide by the left and right padding if used. 
 
 </div>
 
