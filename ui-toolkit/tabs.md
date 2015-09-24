@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 - [Use](#use)
 - [Style](#style)
 - [States](#states)
@@ -38,15 +39,21 @@ We’ve identified two use cases for tabs: to show alternate views of informatio
 ### 1. To show alternate views of the same information 
 <p>Consider using tabs when content needs to be separated into sections, but there’s limited visual space.</p>
 
-<div class="content-33 content-first">
+<div class="content-50 content-first">
 
 #### Use them if:
+
 * Content for each tab is related and has a similar structure 
 * The content in each tab does not have to be viewed or compared at the same time
 * Tabs fit in a single row (ideally between 2 – 9 tabs)
 * Tabs have short, categorical names (1-3 words)
 
+</div>
+
+<div class="content-50 content-first">
+
 #### Do not use if:
+
 * Content in separate tabs needs to be compared 
 * The content is long and requires scrolling inside the tab
 * The content is very short or only text-based (an expandable may be more appropriate)
@@ -54,9 +61,9 @@ We’ve identified two use cases for tabs: to show alternate views of informatio
 
 </div>
 
-<div class="content-67 content-last">
+
 #### (Live Example of tabs use case 1)
-</div>
+
 
 ---
 
@@ -149,7 +156,3 @@ We’ve identified two use cases for tabs: to show alternate views of informatio
 <div class="content-67 content-last">
 #### (Example on inactive tab)
 </div>
-
-
-
-
