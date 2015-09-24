@@ -1,3 +1,9 @@
+---
+layout: page
+title: Tabs
+category: UI toolkit
+published: true
+---
 
 
 - [Use](#use)
@@ -143,3 +149,7 @@ We’ve identified two use cases for tabs: to show alternate views of informatio
 <div class="content-67 content-last">
 #### (Example on inactive tab)
 </div>
+
+
+
+
