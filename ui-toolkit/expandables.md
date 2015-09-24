@@ -9,6 +9,7 @@ published: true
 - [Use](#use)
 - [Style](#style)
 - [States](#states)
+- [Accessibility](#accessibility) 
 {: class="toc"}
 
 <div class="content-50 content-first">
@@ -276,3 +277,17 @@ The header should be addressable by the keyboard to ensure keyboard users can op
 {:/nomarkdown}
 
 </div>
+
+
+<h2 id="accessibility">Accessibility<span class="cf-code-link"><a href="https://cfpb.github.io/cf-expandables/docs/">View code <span class="cf-icon cf-icon-external-link"></span></a></span></h2>
+
+The <find> function will not discover information hidden by a collapsed expandable, so use good judgement in deciding which information to hide.
+
+Non-javascript users should default to the expanded state. Otherwise, the default state (expanded or collapsed) will depend on the circumstance.
+
+Additional content here about roles and tagging
+
+
+
+
+
