@@ -318,9 +318,19 @@ Expandable sections grouped together (e.g., FAQs) are stacked vertically, with e
 
 <div class="content-33 content-first">
 
-#### Normal
-* Gray 20% bar 
-* Pacific Blue minicon
+#### Collapsed 
+
+The default collapsed state should include the expand/collapse minicon within a circle and a label (if space allows). The Show/Hide label can be hidden at mobile widths to prevent titles prematurely breaking on to multiple lines and reduced visual clutter.
+
+</div>
+
+---
+
+<div class="content-33 content-first">
+
+#### Expanded
+
+The expanded states for both the grey and white versions have an option to include a 1px stroke under the title to help separate from the expanded content. This stroke should abide by the left and right padding if used. 
 
 </div>
 
@@ -354,19 +364,6 @@ Expandable sections grouped together (e.g., FAQs) are stacked vertically, with e
     </div>
 </div>
 {:/nomarkdown}
-
-</div>
-
----
-
-<div class="content-33 content-first">
-
-#### Hover/Focus/Expanded
-
-* Grey 50% bar
-* Pacific Blue minicon
-
-The header should be addressable by the keyboard to ensure keyboard users can open the expandable. It should match the hover state.
 
 </div>
 
