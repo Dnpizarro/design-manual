@@ -50,7 +50,7 @@ Add the data-accordion="true" attribute to the expandable group to activate the 
 <div class="content-67 content-last">
 
 {::nomarkdown}  
-<div class="expandable expandable__padded">
+<li class="expandable expandable__padded">
     <button class="expandable_header expandable_target">
         <span class="expandable_header-left expandable_label">
             Standard expandable title one
@@ -75,11 +75,9 @@ Add the data-accordion="true" attribute to the expandable group to activate the 
             dolore ipsa?
         </p>
     </div>
-</div>
-{:/nomarkdown}
+</li>
 
-{::nomarkdown}
-<div class="expandable expandable__padded">
+<li class="expandable expandable__padded">
     <button class="expandable_header expandable_target">
         <span class="expandable_header-left expandable_label">
             Standard expandable title two
@@ -104,7 +102,7 @@ Add the data-accordion="true" attribute to the expandable group to activate the 
             dolore ipsa?
         </p>
     </div>
-</div>
+</li>
 {:/nomarkdown}
 
 </div>
