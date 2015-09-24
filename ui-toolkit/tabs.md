@@ -70,24 +70,30 @@ We’ve identified two use cases for tabs: to show alternate views of informatio
 ### 2. To navigate through a process
 <p>Tabs are generally not recommended for navigation, but can be used for leading users step by step through a task. Because they divide a complex task into individual steps, each chunk becomes easier to deal with because it provides a discrete “mental space” for the user, and effectively simplifies the task. None of the tabbed pages are as effective on their own as they are as part of a set.</p>
 
-<div class="content-33 content-first">
+<div class="content-50 content-first">
 
 #### Use tabs for navigation if:
+
 * The task is long or complicated and usually novel for users
 * You’re reasonably certain that we (designers, CFPB) will know more than the user about how best to get the task done
 * The entire width of a page is needed for content and navigation. Testing should be done to confirm this before moving away from the left-hand navigation. 
 * Tabs fit in a single row (ideally between 2 – 9 tabs)
 * Tabs have short, categorical names (1-3 words)
 
+</div>
+
+<div class="content-50 content-first">
+
 #### Do not use them if:
+
 * Your planned usage is due more to stakeholder desire rather than actual need
 * Tabs are being used as a  progress indicator and aren’t actually clickable. (Users should be able to access any tab at any time)
 
 </div>
 
-<div class="content-67 content-last">
+
 #### (Live Example of tabs use case 2)
-</div>
+
 
 
 
