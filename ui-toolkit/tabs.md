@@ -7,6 +7,7 @@ published: true
 
 
 
+
 - [Use](#use)
 - [Style](#style)
 - [States](#states)
@@ -34,7 +35,7 @@ Tabs can be used within a page to show alternate views of information and, thoug
 
 <h2 id="use">Use<span class="cf-code-link"><a href="http://cfpb.github.io/cf-expandables/docs/">View code <span class="cf-icon cf-icon-external-link"></span></a></span></h2>
 
-We’ve identified two use cases for tabs: to show alternate views of information within a page and, though rarely used, as navigation between pages.  
+We’ve identified two use cases for tabs: to show alternate views of information within a page and, though rarely used, as navigation between pages. For both use cases, tabs are replaced by expandables when the screen size becomes too small to display tabs.
 
 ### 1. To show alternate views of the same information 
 <p>Consider using tabs when content needs to be separated into sections, but there’s limited visual space.</p>
