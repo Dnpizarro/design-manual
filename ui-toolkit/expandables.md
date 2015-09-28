@@ -7,6 +7,7 @@ published: true
 
 
 
+
 - [Style](#style)
 - [States](#states)
 - [Types](#types)
@@ -87,6 +88,7 @@ Expandable sections grouped together (e.g., FAQs) are stacked vertically, with e
 <div class="content-67 content-last">
 
 {::nomarkdown}  
+<div class="expandable-group">
 <div class="expandable expandable__padded">
     <button class="expandable_header expandable_target">
         <span class="expandable_header-left expandable_label">
@@ -166,6 +168,7 @@ Expandable sections grouped together (e.g., FAQs) are stacked vertically, with e
             dolore ipsa?
         </p>
     </div>
+</div>
 </div>
 
 {:/nomarkdown}
